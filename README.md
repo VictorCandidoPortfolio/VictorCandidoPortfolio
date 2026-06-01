@@ -34,7 +34,7 @@ Quando não estou buildando um código ou estudando, você provavelmente vai me 
 ## 🚀 Minhas Tecnologias
 
 ### 💻 Linguagens & Back-end
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://cdn-icons-png.flaticon.com/128/5968/5968350.png" /> <img src="https://img.shields.io/badge/C++
 -00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
 ### 🌐 Front-end & Mobile
