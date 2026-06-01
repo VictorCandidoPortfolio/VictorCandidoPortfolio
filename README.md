@@ -1,7 +1,7 @@
 <!-- HEADER CENTRALIZADO -->
 <div align="center">
   <!-- Um banner minimalista ou GIF de abertura -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glowing.png" width="100%">
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/glowing.png](https://i.pinimg.com/originals/35/35/00/3535009c4a5e1d6c611dc436183b2be3.gif)" width="100%">
   
   <h1>Olá, eu sou o Victor! 👋</h1>
   
