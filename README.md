@@ -34,7 +34,7 @@ Quando não estou buildando um código ou estudando, você provavelmente vai me 
 ## 🚀 Minhas Tecnologias
 
 ### 💻 Linguagens & Back-end
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="5%"/> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width="5%"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="5%"/> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width="5%"/> <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="5%"/> <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
 ### 🌐 Front-end & Mobile
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
